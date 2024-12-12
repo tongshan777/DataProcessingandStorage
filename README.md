@@ -6,11 +6,13 @@ This project implements an in-memory key-value database that supports transactio
 Please follow these steps to run the code using CLion:
 
 Step 1: Download and install CLion:
+
 -Windows: https://www.jetbrains.com/clion/download/
 -macOS: https://www.jetbrains.com/clion/download/download-thanks.html?platform=macM1
 -Linux: https://www.jetbrains.com/clion/download/download-thanks.html?platform=linux
 
 Step 2: Install a C++ compiler (g++ or Clang) based on your operating system:
+
 1. Run the code in termimal:
 - Windows:
   Download MinGW-w64: [MinGW-w64 Download](https://www.mingw-w64.org/).
@@ -31,12 +33,14 @@ Step 2: Install a C++ compiler (g++ or Clang) based on your operating system:
    clang++ --version
 
 Step 3: Clone the Repository:
+
 1. run the code in termimal:
 git clone https://github.com/tongshan777/DataProcessingandStorage.git
 
 Step 4: Launch CLion and open the cloned project dictory
 
 Step 5: Build and Run
+
 1. Click the Build button in CLion to compile the program
 2. Click Run to run the progame
 
