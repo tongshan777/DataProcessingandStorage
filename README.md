@@ -23,16 +23,23 @@ Step 2: Install a C++ compiler (g++ or Clang) based on your operating system:
        
 - macOS:
   bash
-  xcode-select --install
+  
+  xcode-select
+
+  --install
 
 - Linux:
   bash
+  
   sudo apt update
+  
   sudo apt install g++ clang
 
 2. Verify the compiler installation:
    bash
+   
    g++ --version
+   
    clang++ --version
    
 
