@@ -13,6 +13,7 @@ Step 1: Download and install CLion:
 
 -Linux: https://www.jetbrains.com/clion/download/download-thanks.html?platform=linux
 
+
 Step 2: Install a C++ compiler (g++ or Clang) based on your operating system:
 
 1. Run the code in termimal:
@@ -33,6 +34,7 @@ Step 2: Install a C++ compiler (g++ or Clang) based on your operating system:
    bash
    g++ --version
    clang++ --version
+   
 
 Step 3: Clone the Repository:
 
