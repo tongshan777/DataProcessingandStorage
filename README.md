@@ -17,11 +17,15 @@ Step 1: Download and install CLion:
 Step 2: Install a C++ compiler (g++ or Clang) based on your operating system:
 
 1. Run the code in termimal:
+
 - Windows:
+
   Download MinGW-w64: [MinGW-w64 Download](https://www.mingw-w64.org/).
+  
   Follow the installation guide and add `g++` to your system PATH.
        
 - macOS:
+
   bash
   
   xcode-select
@@ -29,6 +33,7 @@ Step 2: Install a C++ compiler (g++ or Clang) based on your operating system:
   --install
 
 - Linux:
+  
   bash
   
   sudo apt update
