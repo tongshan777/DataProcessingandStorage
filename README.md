@@ -8,7 +8,9 @@ Please follow these steps to run the code using CLion:
 Step 1: Download and install CLion:
 
 -Windows: https://www.jetbrains.com/clion/download/
+
 -macOS: https://www.jetbrains.com/clion/download/download-thanks.html?platform=macM1
+
 -Linux: https://www.jetbrains.com/clion/download/download-thanks.html?platform=linux
 
 Step 2: Install a C++ compiler (g++ or Clang) based on your operating system:
